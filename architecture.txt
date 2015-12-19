@@ -1,0 +1,27 @@
+Requirements/Components
+
+Store Recipes
+	a. Link or reference
+	b. Ingredients
+		Based on number of servings
+		Classify ingredients by type - produce, spice, protein, dairy, etc
+	c. Steps
+
+Grocery List
+	a. Select a recipe + number of servings to import ingredients to the list
+	b. Combine ingredients if multiple recipes use the same ingredient
+	c. Be able to group ingredients by type
+	d. Be able to add additional grocery items
+	e. Be able to mark items as found
+	f. Be able to alter or remove grocery items
+	g. Notify if the ingredient is already in the pantry
+	
+Pantry
+	a. Keep a list of pantry items by ingredient, quantity, and expiration date
+	b. Warn if an item will expire soon
+	
+	
+Server side - Express
+Client side - Angular
+Database - Mongo? plus Mongoose
+CSS Pre-processor - LESS
